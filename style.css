@@ -94,55 +94,6 @@ body {
 .layer:nth-child(12):after {
   transform: translateZ(-16.5px);
 }
-/* 
-.layer:nth-child(13):after {
-  transform: translateZ(-18px);
-}
-
-.layer:nth-child(14):after {
-  transform: translateZ(-19.5px);
-}
-
-.layer:nth-child(15):after {
-  transform: translateZ(-21px);
-}
-
-.layer:nth-child(16):after {
-  transform: translateZ(-22.5px);
-}
-
-.layer:nth-child(17):after {
-  transform: translateZ(-24px);
-}
-
-.layer:nth-child(18):after {
-  transform: translateZ(-25.5px);
-}
-
-.layer:nth-child(19):after {
-  transform: translateZ(-27px);
-}
-
-.layer:nth-child(20):after {
-  transform: translateZ(-28.5px);
-}
-
-.layer:nth-child(n + 10):after {
-  -webkit-text-stroke: 3px rgba(0, 0, 0, 0.25);
-}
-
-.layer:nth-child(n + 11):after {
-  -webkit-text-stroke: 15px dodgerblue;
-  text-shadow: 6px 0 6px #00366b, 5px 5px 5px #002951, 0 6px 6px #00366b;
-}
-
-.layer:nth-child(n + 12):after {
-  -webkit-text-stroke: 15px #0077ea;
-}
-
-.layer:last-child:after {
-  -webkit-text-stroke: 17px rgba(0, 0, 0, 0.1);
-} */
 
 .layer:first-child:after {
   color: #fff;
